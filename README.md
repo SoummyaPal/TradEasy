@@ -15,5 +15,9 @@ The backend api used is from fin/io. User enabled google sign in and firebase au
 
 
 
-https://user-images.githubusercontent.com/79873666/190226482-4c65ce89-324d-4c48-b2c6-6192652f7ba0.mp4
+
+
+
+https://user-images.githubusercontent.com/79873666/190227177-d84773fb-3e98-4ff6-b58f-02cc72c03385.mp4
+
 
