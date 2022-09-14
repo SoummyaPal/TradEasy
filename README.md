@@ -10,3 +10,10 @@ TradEasy is a one stop platform for all the young generation to start investing.
   
   
 The backend api used is from fin/io. User enabled google sign in and firebase authentication.
+
+
+
+
+
+https://user-images.githubusercontent.com/79873666/190226482-4c65ce89-324d-4c48-b2c6-6192652f7ba0.mp4
+
